@@ -1,7 +1,7 @@
 
 # Kebijakan Privasi Unsika Connect
 
-Efektif sejak: Minggu, 13 Desember 2023
+Efektif sejak: Rabu, 13 Desember 2023
 
 Kami di Unsika Connect sangat memprioritaskan privasi dan keamanan pengguna kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi yang dikumpulkan dari pengguna kami saat menggunakan aplikasi Unsika Connect. Kami mendorong Anda untuk membaca kebijakan ini dengan seksama untuk memahami bagaimana kami menjaga kerahasiaan data pribadi Anda.
 
